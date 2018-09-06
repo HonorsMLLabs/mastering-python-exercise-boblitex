@@ -1,0 +1,8 @@
+setup.py
+searchpack/__init__.py
+searchpack/drop.py
+searchpack/pack.py
+searchpack.egg-info/PKG-INFO
+searchpack.egg-info/SOURCES.txt
+searchpack.egg-info/dependency_links.txt
+searchpack.egg-info/top_level.txt
